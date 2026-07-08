@@ -1,110 +1,83 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,25:8338ec,50:3a86ff,75:06ffa5,100:ffbe0b&height=280&section=header&text=NEEL%20IS%20LOADING...&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=2D%20Physics%20•%20JavaScript%20•%20Pure%20Curiosity&descAlignY=58&descSize=22&descColor=ffffff&fontFamily=monospace" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=900&color=FF006E&center=true&vCenter=true&width=700&height=50&lines=Turning+coffee+into+code...;Building+a+2D+Physics+Engine+from+scratch;Every+bug+is+a+lesson+in+disguise+⚡;Future+full-stack+%2F+game+dev+🕹️" alt="Typing SVG" />
-<br/>
+# 👋 Hi there, I'm Praneel
 
-<img src="https://komarev.com/ghpvc/?username=Neel-770&style=for-the-badge&color=06FFA5&labelColor=1a0033&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Neel-770?style=for-the-badge&color=FFBE0B&labelColor=1a0033&label=FOLLOWERS" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Clean+Code+%7C+Modern+UI;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td valign="top" width="55%">
+## 🚀 About Me
 
-## 🧠 Behind the Pixels
-
-I’m **Neel**, a self-taught developer stepping straight into the trenches of core engineering problems. Instead of staying inside the safety of tutorials, I'm currently reverse-engineering how **2D physics** actually moves objects through space—building a custom engine from absolute scratch using raw JavaScript.
-
-### 🚀 Current Trajectory
-* **Role:** Aspiring Full-Stack & Game Developer
-* **Current Mission:** Custom 2D Physics Engine 🧪
-* **Obsessions:** Vector math, rigid-body collisions, impulse resolution, and gravity mechanics.
-* **Core Philosophy:** *Ship it ugly, break it completely, then engineer it beautifully.*
-
-If you are hunting for a developer who isn't afraid to dive deep into custom math and complex structures rather than just stacking external frameworks, you found him. Stick around—this profile is evolving fast.
-
-</td>
-<td valign="top" width="45%" align="center">
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Neel-770&show_icons=true&theme=dark&hide_border=true&bg_color=1a0033,3a0ca3,7209b7&title_color=ffbe0b&text_color=ffffff&icon_color=06ffa5&count_private=true" width="100%"/>
-</td>
-</tr>
-</table>
+* 💻 Passionate **Full Stack Developer**
+* ⚡ Focused on **clean UI, performance & scalability**
+* 🧠 Continuously learning modern technologies
+* 🔥 Love building **useful, real-world applications**
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-## 🔥 Active Project Spotlight
-
-<a href="https://github.com/Neel-770/2d-Physics-engine">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-770&repo=2d-Physics-engine&theme=dark&hide_border=true&bg_color=1a0033,3a0ca3,7209b7&title_color=ffbe0b&text_color=ffffff&icon_color=06ffa5" />
-</a>
-
-### ⚙️ The 2D Physics Engine (Hand-Coded)
-Vectors, acceleration, rigid body collisions, and restitution coefficients. Absolutely no libraries, frameworks, or shortcuts—just pure math and custom code engineered to genuinely learn how engines simulate real-world motion.
-
-<img src="https://img.shields.io/badge/status-active%20development-FF006E?style=for-the-badge&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/lessons%20learned-infinite-FFBE0B?style=for-the-badge&labelColor=1a0033" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,react,nextjs,nodejs,supabase,vercel,git,github,linux" />
+</p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Analytics
 
-## 🛠️ The Cyber Stack
-
-<img src="https://img.shields.io/badge/JavaScript-1a0033?style=for-the-badge&logo=javascript&logoColor=FFBE0B&labelColor=1a0033" /> \  <img src="https://img.shields.io/badge/HTML5-1a0033?style=for-the-badge&logo=html5&logoColor=FF006E&labelColor=1a0033" /> \  <img src="https://img.shields.io/badge/CSS3-1a0033?style=for-the-badge&logo=css3&logoColor=06FFA5&labelColor=1a0033" /> \  <img src="https://img.shields.io/badge/Git-1a0033?style=for-the-badge&logo=git&logoColor=3A86FF&labelColor=1a0033" /> \  <img src="https://img.shields.io/badge/VS%20Code-1a0033?style=for-the-badge&logo=visualstudiocode&logoColor=06FFA5&labelColor=1a0033" />
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Activity & Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neel-770&theme=dark&hide_border=true&background=1a0033&ring=FF006E&fire=FFBE0B&currStreakLabel=06FFA5&sideLabels=ffffff" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-770&layout=compact&theme=dark&hide_border=true&bg_color=1a0033&title_color=ffbe0b&text_color=ffffff" width="49%" />
-
-### 🌌 Contribution Snake
-*(Watch the snake eat through the commit grid below!)*
-
-<img src="https://raw.githubusercontent.com/Neel-770/Neel-770/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neel-770&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neel-770&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" height="150"/>
+</p>
 
 ---
 
-## 🎯 Engine Roadmap
+## 🧠 Currently Working On
 
-| Status | Target Milestone |
-| :---: | :--- |
-| 🟡 | Finalize precise collision detection algorithms |
-| ⬜ | Implement full gravity vectors & elastic restitution adjustments |
-| ⬜ | Integrate a modern framework (React / Game-dev ecosystem) |
-| ⬜ | Ship Project #2 completely live into production |
-| ⬜ | Earn a repository star from a total stranger 🌟 |
-| ⬜ | Push my first open-source project contribution |
+* ⚡ Scalable **Full Stack Applications**
+* 🔐 Backend **Security & Optimization**
+* 🎨 Modern **UI/UX Systems**
 
 ---
 
-<div align="center">
+## 🌟 Projects
 
-## 🤝 Let's Collaborate
+🔹 **Touch Design App**
 
-<img src="https://img.shields.io/badge/-Open%20to%20Collab-FF006E?style=for-the-badge&labelColor=1a0033" /> \  <img src="https://img.shields.io/badge/-Open%20to%20Feedback-06FFA5?style=for-the-badge&labelColor=1a0033" /> \  <img src="https://img.shields.io/badge/-Always%20Learning-FFBE0B?style=for-the-badge&labelColor=1a0033" />
+> Interactive UI/UX design tool focused on intuitive touch-based experiences
 
-<br/>
+🔹 **Physics Simulator**
 
-> **"Every expert was once a beginner who refused to quit."**
+> Realistic 2D physics engine with gravity, collisions, and motion dynamics
 
-<br/>
+🔹 **Web Platforms**
 
-⭐ *If what you see here resonates, or you just want to support an engineer learning the hard way, drop a star on the physics engine repository—it fuels the grind.*
+> Production-ready apps using React, Supabase & serverless architecture
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,25:8338ec,50:3a86ff,75:06ffa5,100:ffbe0b&height=120&section=footer" width="100%"/>
-</div>
+---
+
+## ⚡ Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neel-770&theme=tokyo-night&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neel-770&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/Neel-770">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f7ff" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f7ff&height=100&section=footer"/>
+</p>
