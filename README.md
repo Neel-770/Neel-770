@@ -1,10 +1,6 @@
 # 👋 Hi there, I'm Praneel
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:00f7ff&height=220&section=header&text=Praneel&fontSize=60&fontColor=00f7ff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=65&descSize=18" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Clean+Code+%7C+Modern+UI;Always+Learning+New+Tech" />
 </p>
 
@@ -30,17 +26,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neel-770&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff&icon_color=00f7ff" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neel-770&theme=tokyonight&hide_border=true&background=000000&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" height="150"/>
-</p>
-
----
-
-## 🌟 Featured Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-770&repo=hand_trail_-tracker&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-770&repo=2d-Physics-engine&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" height="150"/>
 </p>
 
 ---
@@ -53,10 +40,30 @@
 
 ---
 
+## 🌟 Projects
+
+🔹 **Touch Design App**
+
+> Interactive UI/UX design tool focused on intuitive touch-based experiences
+
+🔹 **Physics Simulator**
+
+> Realistic 2D physics engine with gravity, collisions, and motion dynamics
+
+🔹 **Web Platforms**
+
+> Production-ready apps using React, Supabase & serverless architecture
+
+---
+
 ## ⚡ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neel-770&theme=tokyo-night&bg_color=000000&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
@@ -64,13 +71,13 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/Neel-770">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00f7ff" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f7ff" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f7ff&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f7ff&height=100&section=footer"/>
 </p>
