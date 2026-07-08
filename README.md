@@ -60,14 +60,10 @@
 
 ---
 
-## ⚡ Contribution Activity
+## 🐍 Contribution Activity (Animated)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neel-770&theme=tokyo-night&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neel-770&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Neel-770/Neel-770/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
