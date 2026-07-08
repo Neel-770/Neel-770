@@ -1,6 +1,10 @@
 # 👋 Hi there, I'm Praneel
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,100:00f7ff&height=220&section=header&text=Praneel&fontSize=60&fontColor=00f7ff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=65&descSize=18" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Clean+Code+%7C+Modern+UI;Always+Learning+New+Tech" />
 </p>
 
