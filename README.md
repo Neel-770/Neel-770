@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-770&repo=YOUR_TOUCH_APP_REPO&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-770&repo=YOUR_PHYSICS_SIM_REPO&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-770&repo=2d-Physics-engine&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff" />
 </p>
 
 ---
